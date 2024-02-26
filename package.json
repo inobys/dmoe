@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "author": "bingbing.li <bingbing.li@fanttec.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "antd": "^5.14.2",
+    "umi": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11"
+  }
+}
